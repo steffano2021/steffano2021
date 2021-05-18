@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any small side projects**
 
-- 🤝 I’m looking for help with **understanding how a server works**
+- 🤝 I’m looking for help with **algorithms**
 
 - 💬 Ask me about **javascript, html**
 
