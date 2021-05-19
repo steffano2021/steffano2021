@@ -1,4 +1,4 @@
-<h1 align="center">Hey you!👋, I'm Steffano Vidal-Espinoza but call me stef</h1>
+<h1 align="center">Hey you!👋, I'm Steffano Vidal-Espinoza</h1>
 <h3 align="center">On a new journey to become the best swe I can be :)</h3>
 
 - 🔭 I’m currently working on **my javascript skills**
