@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **algorithms**
 
-- 💬 Ask me about **javascript, html**
+- 💬 Ask me about **life**
 
 - 📫 How to reach me **steffano.espinoza10@gmail.com**
 
