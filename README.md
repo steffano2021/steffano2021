@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my javascript skills**
 
-- 🌱 I’m currently learning **algorithms, and sorting**
+- 🌱 I’m currently learning **python, flask, and much more**
 
 - 👯 I’m looking to collaborate on **any small side projects**
 
