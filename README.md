@@ -1,7 +1,7 @@
 <h1 align="center">Hey you!👋, I'm Steffano Vidal-Espinoza</h1>
 <h3 align="center">On a new journey to become the best swe I can be :)</h3>
 
-- 🌱 I’m currently learning **react native and mysql**
+- 🌱 I’m currently learning **react native, java, and mysql**
 
 - 👯 I’m looking to collaborate on **any small side projects**
 
