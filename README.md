@@ -1,17 +1,17 @@
 <h1 align="center">Hey you!👋, I'm Steffano Vidal-Espinoza</h1>
-<h3 align="center">On a new journey to become the best swe I can be :)</h3>
+<h3 align="center">On my journey to become the best swe I can be :)</h3>
 
-- 🌱 I’m currently learning **react native, java, and mysql**
+- 🌱 I’m currently perfecting my **Java, SQL, and Python**
 
 - 👯 I’m looking to collaborate on **any small side projects**
 
-- 🤝 I’m looking for help finding **my first job**
+- 🤝 I’m looking for help finding **my next job**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **SQL**
 
 - 📫 How to reach me **steffano.espinoza10@gmail.com**
 
-- ⚡ Fun fact **I have an engineering degree :)**
+- ⚡ Fun fact **I have a mechanical engineering degree**
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
